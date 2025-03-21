@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0053-maximum-subarray) |
+| [0229-majority-element-ii](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0015-3sum) |
+| [0229-majority-element-ii](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -22,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
