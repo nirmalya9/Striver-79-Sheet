@@ -11,6 +11,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0496-next-greater-element-i) |
 | [0907-koko-eating-bananas](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0907-koko-eating-bananas) |
 ## Two Pointers
 |  |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0496-next-greater-element-i) |
 ## Counting
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
@@ -66,4 +69,8 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0686-repeated-string-match) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
