@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -23,6 +24,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
@@ -39,6 +41,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0162-find-peak-element) |
