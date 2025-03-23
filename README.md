@@ -49,6 +49,7 @@
 ## String
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0686-repeated-string-match) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
