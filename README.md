@@ -13,6 +13,7 @@
 | [0229-majority-element-ii](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0496-next-greater-element-i) |
 | [0907-koko-eating-bananas](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0907-koko-eating-bananas) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,4 +74,12 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0496-next-greater-element-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/1826-maximum-xor-with-an-element-from-array) |
+## Trie
+|  |
+| ------- |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/1826-maximum-xor-with-an-element-from-array) |
 <!---LeetCode Topics End-->
