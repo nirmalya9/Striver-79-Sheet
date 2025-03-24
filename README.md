@@ -13,6 +13,7 @@
 | [0162-find-peak-element](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0907-koko-eating-bananas) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Two Pointers
@@ -62,6 +63,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0735-asteroid-collision) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/1826-maximum-xor-with-an-element-from-array) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
