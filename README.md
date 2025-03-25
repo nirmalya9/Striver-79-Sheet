@@ -22,6 +22,7 @@
 | ------- |
 | [0015-3sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0141-linked-list-cycle](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -40,6 +41,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0496-next-greater-element-i) |
@@ -113,6 +115,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0146-lru-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0908-middle-of-the-linked-list) |
 ## Design
