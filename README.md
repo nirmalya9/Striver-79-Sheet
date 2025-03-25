@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0908-middle-of-the-linked-list) |
@@ -115,6 +116,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0146-lru-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0908-middle-of-the-linked-list) |
