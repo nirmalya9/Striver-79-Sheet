@@ -15,6 +15,7 @@
 | [0229-majority-element-ii](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0907-koko-eating-bananas) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -32,6 +33,7 @@
 | [0015-3sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0621-task-scheduler) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,10 +51,12 @@
 | [0146-lru-cache](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0621-task-scheduler) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,6 +81,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0621-task-scheduler) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## String Matching
 |  |
@@ -113,6 +118,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
 | ------- |
