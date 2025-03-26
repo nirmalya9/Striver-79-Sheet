@@ -26,6 +26,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -49,6 +50,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0621-task-scheduler) |
@@ -129,6 +131,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0908-middle-of-the-linked-list) |
 ## Design
 |  |
