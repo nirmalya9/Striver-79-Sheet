@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0015-3sum) |
+| [0039-combination-sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0084-largest-rectangle-in-histogram) |
@@ -145,4 +146,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
