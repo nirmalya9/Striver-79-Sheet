@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -99,6 +100,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0078-subsets) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Trie
 |  |
@@ -150,4 +152,5 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
