@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0015-3sum) |
+| [0037-sudoku-solver](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0053-maximum-subarray) |
@@ -52,6 +53,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0160-intersection-of-two-linked-lists) |
@@ -154,6 +156,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0078-subsets) |
@@ -165,5 +168,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
