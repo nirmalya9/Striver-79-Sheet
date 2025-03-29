@@ -31,12 +31,14 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0621-task-scheduler) |
@@ -45,6 +47,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -139,6 +142,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0908-middle-of-the-linked-list) |
 ## Design
@@ -170,4 +174,8 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0079-word-search) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
