@@ -172,6 +172,7 @@
 | ------- |
 | [0079-word-search](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0079-word-search) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0543-diameter-of-binary-tree) |
 ## Matrix
 |  |
@@ -186,10 +187,12 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
