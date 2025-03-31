@@ -195,6 +195,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -203,5 +204,10 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
