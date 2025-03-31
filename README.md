@@ -14,6 +14,7 @@
 | [0079-word-search](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
@@ -47,6 +48,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
@@ -58,6 +60,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0037-sudoku-solver) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0160-intersection-of-two-linked-lists) |
@@ -186,12 +189,14 @@
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0543-diameter-of-binary-tree) |
