@@ -24,6 +24,7 @@
 | [0621-task-scheduler](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0907-koko-eating-bananas) |
+| [1036-rotting-oranges](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/1036-rotting-oranges) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Two Pointers
 |  |
@@ -188,6 +189,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0079-word-search) |
+| [1036-rotting-oranges](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/1036-rotting-oranges) |
 ## Merge Sort
 |  |
 | ------- |
@@ -224,4 +226,5 @@
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1036-rotting-oranges](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
