@@ -22,6 +22,7 @@
 | [0239-sliding-window-maximum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/1036-rotting-oranges) |
@@ -45,6 +46,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0721-accounts-merge) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | [0496-next-greater-element-i](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0721-accounts-merge) |
 ## Counting
 |  |
 | ------- |
@@ -92,6 +95,7 @@
 | [0079-word-search](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0127-word-ladder) |
 | [0686-repeated-string-match](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0686-repeated-string-match) |
+| [0721-accounts-merge](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0721-accounts-merge) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
@@ -189,6 +193,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0721-accounts-merge) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Matrix
 |  |
@@ -234,6 +239,7 @@
 | [0127-word-ladder](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0127-word-ladder) |
 | [0210-course-schedule-ii](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0210-course-schedule-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0721-accounts-merge) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1036-rotting-oranges](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/1036-rotting-oranges) |
 ## Graph
@@ -249,4 +255,8 @@
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0803-cheapest-flights-within-k-stops) |
+## Union Find
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
