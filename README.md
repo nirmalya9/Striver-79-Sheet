@@ -195,6 +195,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0721-accounts-merge) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1300-critical-connections-in-a-network](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/1300-critical-connections-in-a-network) |
 ## Matrix
 |  |
 | ------- |
@@ -247,6 +248,7 @@
 | ------- |
 | [0210-course-schedule-ii](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0210-course-schedule-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1300-critical-connections-in-a-network](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/1300-critical-connections-in-a-network) |
 ## Topological Sort
 |  |
 | ------- |
@@ -259,4 +261,8 @@
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0721-accounts-merge) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
