@@ -10,6 +10,7 @@
 | [0039-combination-sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0198-house-robber) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -202,6 +204,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0079-word-search) |
 | [1036-rotting-oranges](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/1036-rotting-oranges) |
 ## Merge Sort
