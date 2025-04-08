@@ -67,6 +67,7 @@
 | [0064-minimum-path-sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0198-house-robber) |
+| [0516-longest-palindromic-subsequence](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0516-longest-palindromic-subsequence) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Hash Table
 |  |
@@ -101,6 +102,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0127-word-ladder) |
+| [0516-longest-palindromic-subsequence](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0516-longest-palindromic-subsequence) |
 | [0686-repeated-string-match](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0721-accounts-merge) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0957-minimum-add-to-make-parentheses-valid) |
