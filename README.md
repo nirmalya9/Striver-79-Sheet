@@ -23,6 +23,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0239-sliding-window-maximum) |
+| [0312-burst-balloons](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0312-burst-balloons) |
 | [0455-assign-cookies](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0621-task-scheduler) |
@@ -70,6 +71,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0198-house-robber) |
+| [0312-burst-balloons](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0312-burst-balloons) |
 | [0516-longest-palindromic-subsequence](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0516-longest-palindromic-subsequence) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nirmalya9/Striver-79-Sheet/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Hash Table
